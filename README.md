@@ -1,7 +1,7 @@
 # Fundamentals_of_ICT_for_nonCS
 # Fundamentals of Computer & Digital Literacy
 
-**Course Code:** CSE-101 (or equivalent)  
+**Course Code:** SE-101 (or equivalent)  
 **Instructor:** Md. Saeed Siddik  
 **Department:** Institute of Information Technology (IIT), University of Dhaka  
 **Audience:** Non-Computer Science Undergraduate Students  
